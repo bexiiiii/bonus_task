@@ -72,7 +72,7 @@ sudo apt install openjdk-11-jdk maven
 
 ```bash
 # Clone the repository
-git clone <your-repository-url>
+git clone git@github.com:bexiiiii/bonus_task.git
 cd bonus\ task
 
 # Compile the project
